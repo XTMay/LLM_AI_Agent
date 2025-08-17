@@ -1,5 +1,3 @@
-Here’s a full README.md template for your LLM & AI Agent course GitHub repository:
-
 # LLM & AI Agent Development Course
 
 Welcome to the **LLM & AI Agent Development Course**, designed for software engineers, data scientists, and AI enthusiasts who want to **transition into AI, LLM, and autonomous agent development**.
