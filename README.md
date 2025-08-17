@@ -61,11 +61,11 @@ LLM_AI_Agent/
 ```bash
 git clone https://github.com/yourusername/LLM_AI_Agent.git
 ```
-	2.	Install dependencies:
+2.	Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-	3.	Start exploring lessons and projects!
+3.	Start exploring lessons and projects!
 
 Resources
 
