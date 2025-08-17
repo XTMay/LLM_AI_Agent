@@ -68,6 +68,7 @@ pip install -r requirements.txt
 	3.	Start exploring lessons and projects!
 
 Resources
+
 	•	Hugging Face Transformers
 	•	LangChain
 	•	FAISS
