@@ -46,13 +46,14 @@ After completing this course, you will be able to:
 - Deploy AI applications using modern frameworks
 
 ## Repository Structure
-
+```
 LLM_AI_Agent/
 │
 ├── lessons/            # Course lessons and slides
 ├── projects/           # Hands-on projects
 ├── notebooks/          # Jupyter notebooks for exercises
 └── README.md           # Course overview and instructions
+```
 
 ## Getting Started
 
