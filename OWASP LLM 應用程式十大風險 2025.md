@@ -1,13 +1,12 @@
 # OWASP LLM应用安全风险十讲 (2025版)
 ## 深度解析与批判性思考课程
 
-**课程时长**: 60分钟  
 **适用对象**: AI开发者、安全工程师、技术决策者  
 **学习目标**: 不仅理解风险，更要学会质疑、验证和创新防御策略
 
 ---
 
-## 开场思考：我们真的理解AI安全吗？
+## 思考：我们真的理解AI安全吗？
 
 > **引子问题**: 当你让ChatGPT帮你写代码时，你是否想过——如果有人在Stack Overflow上故意植入恶意建议，而ChatGPT学习了这些内容，会发生什么？
 
@@ -1963,40 +1962,12 @@ AI安全是责任，不是负担。
 
 ## 结语：从意识到行动
 
-**感谢参与这60分钟的深度学习！**
 
 **你现在拥有**:
 - ✓ 对AI安全风险的深刻理解
 - ✓ 批判性思考的视角
 - ✓ 实用的工具和资源
 - ✓ 清晰的行动路线
-
-**但最重要的是**:
-> 知识不等于行动。从明天开始，你会做什么改变？
-
-**最后的挑战**: 
-每个人写下**一项**你将在下周实施的具体行动，并与旁边的人分享。
-
-```
-我的承诺:
-_____________________________________
-_____________________________________
-_____________________________________
-
-日期: ___________
-签名: ___________
-```
-
-**保持联系**:
-- 30天后，我们会跟进你的进展
-- 有问题随时在社区提问
-- 发现有趣的案例记得分享
-
-**AI安全的未来取决于我们每个人的行动。**
-
-**让我们一起建设更安全的AI世界！** 🚀
-
----
 
 ## 附录：延伸资源
 
@@ -2022,44 +1993,3 @@ _____________________________________
 18. LLM Watermarking Techniques (2024)
 19. Constitutional AI Approach (Anthropic)
 20. AI Risk Assessment Frameworks (NIST, 2024)
-
-### B. 实用工具清单
-
-**开源工具**:
-- Garak (漏洞扫描)
-- PromptFuzz (模糊测试)
-- LLM Guard (实时防护)
-- AI Red Team Toolkit
-- Model Card Toolkit (文档化)
-- TensorFlow Privacy (隐私)
-- CleverHans (对抗样本)
-
-**商业平台**:
-- Lakera Guard
-- Arthur AI
-- Robust Intelligence  
-- WhyLabs
-- Fiddler AI
-
-### C. 培训与认证
-
-- OWASP AI Security Certification (筹备中)
-- Coursera: AI Security Specialization
-- ISC2: AI Security Professional
-- CompTIA: AI+ Certification (计划中)
-
-### D. 社区资源
-
-- OWASP AI Security Project
-- AI Village
-- MLSecOps Community
-- MITRE ATLAS
-- AI Incident Database
-
----
-
-**文档版本**: v1.0  
-**最后更新**: 2024年11月  
-**License**: CC BY-SA 4.0
-
-**感谢阅读！期待你的实践分享！** 📚🛡️
